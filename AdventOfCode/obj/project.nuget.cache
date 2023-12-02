@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "gIqGi3Sk3fuz09Bhpw2gvNsbviz3R7hcGr3dG3sBqZnYGAebTuHlSBfKSMmRiaoC8Q5EqKN8N4i41RyxGl5LlA==",
+  "success": true,
+  "projectFilePath": "/Users/joe/Projects/AdventOfCode/AdventOfCode/AdventOfCode.csproj",
+  "expectedPackageFiles": [
+    "/Users/joe/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.15/microsoft.aspnetcore.app.ref.6.0.15.nupkg.sha512",
+    "/Users/joe/.nuget/packages/microsoft.netcore.app.host.osx-x64/6.0.15/microsoft.netcore.app.host.osx-x64.6.0.15.nupkg.sha512",
+    "/Users/joe/.nuget/packages/microsoft.netcore.app.ref/6.0.15/microsoft.netcore.app.ref.6.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
