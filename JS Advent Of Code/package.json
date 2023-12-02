@@ -1,0 +1,19 @@
+{
+  "name": "js-advent-of-code",
+  "version": "1.0.0",
+  "description": "My attepmet to do the advent of code in js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joe10111/Advent-Of-Code-2023.git"
+  },
+  "author": "Joe Centeno",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joe10111/Advent-Of-Code-2023/issues"
+  },
+  "homepage": "https://github.com/joe10111/Advent-Of-Code-2023#readme"
+}
