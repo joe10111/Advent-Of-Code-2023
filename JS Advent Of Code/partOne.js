@@ -1,6 +1,7 @@
 const fileStream = require('fs');
+const path = require('path');
 
-filePath = "/Users/joe/Projects/AdventOfCode/AdventOfCode/Day1P1Input.txt";
+const filePath = path.join(__dirname, '../AdventOfCode/Day1P1Input.txt');
 
 
 // Read the file

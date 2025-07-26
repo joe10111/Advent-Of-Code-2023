@@ -1,5 +1,6 @@
 const fs = require('fs');
-const filePath = "/Users/joe/Projects/AdventOfCode/AdventOfCode/Day1P1Input.txt";
+const path = require('path');
+const filePath = path.join(__dirname, '../AdventOfCode/Day1P1Input.txt');
 
 const digitWordsMap = {
     'one': '1', 'two': '2', 'three': '3', 'four': '4',

@@ -80,7 +80,7 @@ class Program
         // add together all ints to get number
 
         // Code :
-        string filePath = "/Users/joe/Projects/AdventOfCode/AdventOfCode/Day1P1Input.txt";
+        string filePath = Path.Combine(Directory.GetCurrentDirectory(), "Day1P1Input.txt");
         List<string> lines = ReadFileIntoList(filePath);
 
         int total = 0;
@@ -208,7 +208,7 @@ class Program
         // add together all ints to get number
 
         // Code :
-        string filePath = "/Users/joe/Projects/AdventOfCode/AdventOfCode/Day1P1Input.txt";
+        string filePath = Path.Combine(Directory.GetCurrentDirectory(), "Day1P1Input.txt");
         List<string> lines = ReadFileIntoList(filePath);
 
     int total = 0;
